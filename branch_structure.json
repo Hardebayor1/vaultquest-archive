@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-865-vaultquest-implement-manual-repair-command-with",
+    "fix/issue-806-vaultquest-build-contributor-diagnostics",
+    "fix/issue-869-vaultquest-build-deterministic-migration",
+    "fix/issue-873-vaultquest-add-deterministic-duplicate",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-865-vaultquest-implement-manual-repair-command-with": "main",
+    "fix/issue-806-vaultquest-build-contributor-diagnostics": "main",
+    "fix/issue-869-vaultquest-build-deterministic-migration": "main",
+    "fix/issue-873-vaultquest-add-deterministic-duplicate": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-865-vaultquest-implement-manual-repair-command-with",
+    "fix/issue-806-vaultquest-build-contributor-diagnostics",
+    "fix/issue-869-vaultquest-build-deterministic-migration",
+    "fix/issue-873-vaultquest-add-deterministic-duplicate",
+    "origin"
+  ]
+}
